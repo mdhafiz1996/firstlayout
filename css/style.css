@@ -1,0 +1,108 @@
+body{
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    
+}
+.header{}
+.header h3 {
+    font-size: 70px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   
+    border-bottom: 1px solid #eaeaea;
+}
+.header h3 .one{
+    color: blue;
+}
+.header h3 .two{
+    color: red;
+}
+.header h3 .three{
+    color: orange;
+}
+.header h3 .four{
+    color: blue;
+}
+.header h3. five{
+    color: green;
+}
+.header h3 .six{
+    color: red;
+}
+
+
+
+.contant-area{
+   
+ 
+    padding: 30px; 0px;
+}
+.contant-area p {
+    font-size: 50px;
+    text-align: center;
+    padding: 0 18%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.contant-area .blue{
+    color: blue;
+}
+.contant-area .red{
+    color: red;
+}
+.contant-area .green{
+    color: green;
+}
+.contant-area .orange{
+    color: orangeb;
+}
+
+
+.footat{
+    background:green;
+    padding: 3px;
+    color: white;
+}
+.footat p {
+    padding: 0 10%;
+    text-align: center;
+    padding: 0px 317px;
+    font-size: 52px;
+    font-weight: 700;
+}
+.image {
+  
+    text-align: center;
+}
+p {
+    line-height: 1.6;
+    font-size: 20px;
+}
+img{
+    height: 400px;
+   width:1176px; 
+}
+.text h3{
+    font-size: 50px;
+    width: 294px;
+ 
+}
+
+
+
+
+
+
+.header-setion{
+    background: red;
+    width: 1100px;
+    height: 200px;
+    margin: auto;
+}
